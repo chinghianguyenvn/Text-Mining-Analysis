@@ -1,6 +1,7 @@
 # Uncovering Consumer Insights via Text Mining: Sentiment Analysis & LDA Topic Modeling
 
 👉 **Click here to view the full Interactive HTML Report:** [Text_mining.html]
+👉 **Click here for Data link from Kaggle:** [https://www.kaggle.com/datasets/abdallahwagih/amazon-reviews]
 
 ## 1. Research Question
 What are the underlying themes and emotional polarities driving customer satisfaction or dissatisfaction in e-commerce product reviews, and how can these unstructured insights be leveraged for product strategy?
