@@ -14,7 +14,6 @@ Prior to modeling, rigorous data preprocessing is conducted, including tokenizat
 > **Data Note:** The quantitative analysis is based on the `Cell_Phones_and_Accessories_5 2.json` dataset, which contains 194,439 unstructured e-commerce reviews. Due to memory constraints and GitHub's file size limitations for large datasets, a random sample of 10,000 reviews was utilized to ensure computational efficiency and statistical representation. The raw dataset is not hosted in this repository; however, the exact data structure and analytical models can be thoroughly inspected in the provided R Markdown (.Rmd) and HTML reports.
 
 ## 3. Visualizing Unstructured Data
-*(Bạn hãy upload 2 bức ảnh WordCloud và Biểu đồ Topic 1, 2, 3 lên GitHub, copy link ảnh và dán đè lên 2 dòng dưới đây nhé)*
 
 **Sentiment Comparison Cloud:**
 ![WordCloud Sentiment Analysis](Analytical Model 2 LDA Topic Modeling.png)
