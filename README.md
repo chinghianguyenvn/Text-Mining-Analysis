@@ -1,9 +1,9 @@
 # Uncovering Consumer Insights via Text Mining: Sentiment Analysis & LDA Topic Modeling
 
-👉 **Click here to view the full Interactive HTML Report:** [Dán link trang web GitHub Pages của bạn vào đây]
+👉 **Click here to view the full Interactive HTML Report:** [Text_mining.html]
 
 ## 1. Research Question
-What are the underlying themes (topics) and emotional polarities (sentiments) driving customer satisfaction or dissatisfaction in e-commerce product reviews, and how can these unstructured insights be leveraged for product strategy?
+What are the underlying themes and emotional polarities driving customer satisfaction or dissatisfaction in e-commerce product reviews, and how can these unstructured insights be leveraged for product strategy?
 
 ## 2. Methodology
 To extract insights from unstructured textual data, this study employs **Natural Language Processing (NLP)** techniques. First, a Lexicon-based **Sentiment Analysis** is applied to quantify the emotional polarity of consumer reviews. Second, **Latent Dirichlet Allocation (LDA)**, an unsupervised generative probabilistic model, is utilized for **Topic Modeling** to discover hidden semantic structures within the text.
