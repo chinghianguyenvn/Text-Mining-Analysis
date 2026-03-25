@@ -19,7 +19,7 @@ Prior to modeling, rigorous data preprocessing is conducted, including tokenizat
 ![WordCloud Sentiment Analysis](Analytical Model 2 LDA Topic Modeling.png)
 
 **Top 10 Words Defining Each Hidden Topic (LDA):**
-![LDA Topic Modeling](lda_topics.png)
+![LDA Topic Modeling](Top 10 words defining each hidden topic .png)
 
 ## 4. Findings & Implications
 
