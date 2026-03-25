@@ -16,7 +16,7 @@ Prior to modeling, rigorous data preprocessing is conducted, including tokenizat
 *(Bạn hãy upload 2 bức ảnh WordCloud và Biểu đồ Topic 1, 2, 3 lên GitHub, copy link ảnh và dán đè lên 2 dòng dưới đây nhé)*
 
 **Sentiment Comparison Cloud:**
-![WordCloud Sentiment Analysis](link_anh_wordcloud_cua_ban.png)
+![WordCloud Sentiment Analysis](Analytical Model 2 LDA Topic Modeling.png)
 
 **Top 10 Words Defining Each Hidden Topic (LDA):**
 ![LDA Topic Modeling](link_anh_lda_topics_cua_ban.png)
