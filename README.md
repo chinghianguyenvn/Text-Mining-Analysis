@@ -19,18 +19,19 @@ Prior to modeling, rigorous data preprocessing is conducted, including tokenizat
 ![WordCloud Sentiment Analysis](Analytical Model 2 LDA Topic Modeling.png)
 
 **Top 10 Words Defining Each Hidden Topic (LDA):**
-![LDA Topic Modeling](link_anh_lda_topics_cua_ban.png)
+![LDA Topic Modeling](Top 10 words defining each hidden topic .png)
 
 ## 4. Findings & Implications
 
 **1. Findings (Textual & Behavioral Insights):**
-The integration of Lexicon-based Sentiment Analysis and LDA Topic Modeling reveals critical insights into post-purchase behavior:
-- **The Sentiment Asymmetry:** The WordCloud demonstrates a stark contrast in sentiment drivers. Positive emotions are heavily associated with aesthetics and initial usability (e.g., "nice", "love", "easy", "perfectly"). Conversely, negative sentiments are strictly tied to material durability and functional failure (e.g., "cheap", "broke", "disappointed", "flimsy", "waste").
-- **Latent Themes in Consumer Discourse:** The LDA algorithm successfully deconstructed the text corpus into three actionable business topics:
-  - *Topic 1 (Protective Accessories & Fitment):* Dominated by terms like "screen", "protector", "cover", and "fit". This highlights that for phone accessories, the precision of physical dimensions is a primary driver of reviews.
-  - *Topic 2 (Battery Longevity & Android Devices):* Characterized by "battery", "galaxy", "time", "day", and "samsung". This indicates a persistent conversation regarding battery degradation among Android users.
-  - *Topic 3 (Charging Infrastructure):* Defined by "charge", "charger", "usb", "cable", and "power". This points to a high failure rate or compatibility friction surrounding charging peripherals.
+The integration of Lexicon-based Sentiment Analysis and LDA Topic Modeling on unstructured consumer reviews explains various critical insights related to post-purchase behavior:
+
+- **The Sentiment Asymmetry:** The WordCloud reveals a stark contrast in sentiment drivers. Positive emotions are heavily associated with aesthetics and product designs (e.g., “beautiful”, “nice”, “easy”, “perfectly”). By contrast, negative sentiments are strictly tied to material durability and functionalities (e.g., “cheap”, “broke”, “flimsy”, “waste”, “disappointed”).
+- **Latent Themes in Consumer Discourse:** The LDA algorithm successfully deconstructed the chaotic text corpus into three major actionable business topics:
+  - *Topic 1 (Protective Accessories & Fitment):* Dominated by terms like “screen”, “protector”, “cover”, and “fit” that highlights phone accessories, the precision of physical dimensions (“fit”) is the ultimate driver of customer satisfaction.
+  - *Topic 2 (Battery Longevity & Android Devices):* Characterized by “battery”, “galaxy”, “time”, “day”, and “samsung” which indicates a persistent anxiety regarding battery degradation and daily usage time among Android users.
+  - *Topic 3 (Charging Infrastructure):* Characterized by “charge”, “cable”, “usb”, and “power” which reveals to a high failure rate or compatibility friction surrounding charging peripherals.
 
 **2. Implications (Strategic & Academic Contributions):**
-- **Business Strategy (R&D and QA Reallocation):** The analysis reveals that the root cause of 1-star reviews is rarely the core smartphone itself, but rather the peripheral ecosystem (flimsy cables, poorly fitted covers). Management should pivot R&D budgets away from minor aesthetic enhancements and heavily invest in Quality Assurance (QA) for material durability to address "cheap" and "broke" complaints. 
-- **Academic Contribution:** This quantitative study empirically proves that post-purchase satisfaction is not a monolithic construct but is highly segmented into micro-experiences (e.g., charging speed, accessory fitment). By integrating LDA with sentiment scoring, this methodology provides a scalable blueprint for extracting actionable product telemetry from unstructured User-Generated Content (UGC).
+- **Business Strategy:** The analysis shows that the major cause of 1-star reviews is rarely the core smartphone itself, but rather the peripheral ecosystem (flimsy cables, poorly fitted covers, fast-degrading batteries).Therefore, Management should pivot R&D budgets away from minor aesthetic enhancements and heavily invest in Quality Assurance (QA) for material durability to address “cheap” and “broke” complaints. Furthermore, standardizing the supply chain for charging cables will drastically reduce return rates.
+- **Academic Contribution:** This quantitative study validates the Multidimensional Theory of Customer Satisfaction in the electronics e-commerce sector. This proves that post-purchase satisfaction is not a monolithic construct but is highly segmented into micro-experiences (e.g., charging speed, accessory fitment, battery retention). Specifically, by integrating LDA with sentiment scoring, this methodology provides a scalable blueprint for extracting actionable product telemetry from unstructured User-Generated Content (UGC).
