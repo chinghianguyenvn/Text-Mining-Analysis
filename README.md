@@ -16,7 +16,7 @@ Prior to modeling, rigorous data preprocessing is conducted, including tokenizat
 ## 3. Visualizing Unstructured Data
 
 **Sentiment Comparison Cloud:**
-![Sentiment Cloud](tên_file_ảnh_wordcloud_của_bạn.png)
+![Sentiment Cloud](word_cloud.png)
 
 **Top 10 Words Defining Each Hidden Topic (LDA):**
 ![LDA Topics](Top_10_words.png)
