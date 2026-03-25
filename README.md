@@ -16,7 +16,7 @@ Prior to modeling, rigorous data preprocessing is conducted, including tokenizat
 ## 3. Visualizing Unstructured Data
 
 **Sentiment Comparison Cloud:**
-![WordCloud Sentiment Analysis](wordcloud_sentiment.png)
+![WordCloud Sentiment Analysis](Analytical Model 2 LDA Topic Modeling.png)
 
 **Top 10 Words Defining Each Hidden Topic (LDA):**
 ![LDA Topic Modeling](lda_topics.png)
